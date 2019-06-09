@@ -15,11 +15,13 @@ project.
 
 ## Getting Started
 
-Fork this repository or use it as a template to create your new repository.
+[Use this Github Repository Template][gen-template] or fork the repository to
+create a new repository.
 
 [Visual Studio Code][vscode] or any other IDE with [TypeScript
 IntelliSense][ts-intellisense] or similar support is recommended.
 
+[gen-template]: https://github.com/udacity/cloudflare-typescript-worker-template/generate
 [vscode]: https://code.visualstudio.com/
 [ts-intellisense]: https://code.visualstudio.com/docs/languages/typescript
 
