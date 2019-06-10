@@ -58,10 +58,6 @@ The build will generate a `dist/index.js` which you can deploy to Cloudflare.
 * `webpack.config.js` - A simple `webpack` configuration to agreggate
   dependencies and build a worker.
 
-## Author
-
-Brad Erickson ([@13rac1](https://github.com/13rac1))
-
 ## License
 
 Licensed under the Apache License, Version 2.0.
