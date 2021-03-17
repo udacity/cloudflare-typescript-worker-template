@@ -30,7 +30,7 @@ describe('worker', () => {
     const response = await self.trigger('fetch', request);
 
     expect(fetchMock).toBeCalledTimes(1);
-    expect(response[0].status).toBe(200);
-    expect(await response[0].text()).toBe('Hello');
+    expect(response.status).toBe(200);
+    expect(await response.text()).toBe('Hello');
   });
 });
